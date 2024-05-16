@@ -22,11 +22,10 @@
     font-size: 24px;
 }
 
-.receitas-imagem{
+.escola-imagem{
     width: 25%;
 }
 
-.receitas{
-    background-image: linear-gradient(#FF69B1,#7B1C4A);
-    
+.escola{
+    background-image: linear-gradient(#FF69B1,#7B1C4A);   
 }
