@@ -64,7 +64,7 @@ body {
 }
 
 .estudante-todos{
-    display: grid;
+    display: center;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
